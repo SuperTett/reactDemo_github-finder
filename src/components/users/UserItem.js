@@ -28,7 +28,6 @@ class UserItem extends Component {
       </div>
     );
   }
-  d;
 }
 
 export default UserItem;
